@@ -10,6 +10,6 @@ $ yarn dev
 ### Start Dev Server
 
 ```bash
-$ cd client
+$ cd static
 $ yarn dev
 ```
