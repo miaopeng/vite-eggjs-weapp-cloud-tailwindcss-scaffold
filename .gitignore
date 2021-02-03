@@ -1,0 +1,11 @@
+# npm
+node_modules
+
+# miniprogram
+miniprogram_npm
+
+# editor
+.vscode
+
+#misc
+.DS_Store
